@@ -55,3 +55,9 @@ body {
 .jokesClass{
   margin-bottom: 500px
 }
+
+@media only screen and (max-width: 600px) {
+  body{
+    max-width: 600px
+  }
+}
