@@ -1,0 +1,57 @@
+* {
+  box-sizing: border-box;
+  
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  margin:0;
+  background: linear-gradient(#87FFD9, #0EA5AF);
+
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 65px;
+  background: linear-gradient(#e66465, #9198e5);
+  color: white;
+  padding: 20px;
+  width: 600px;
+  margin: 0 auto;
+  border-radius:5px
+}
+.header--title {
+  font-size: 1.25rem;
+  text-align: center;
+}
+.main{
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+  margin: 0 auto;
+}
+
+.select, .form--button, .jokesClass{
+  font-size: 1.25rem;
+  padding: 10px;
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.select{
+  margin-top: 50px;
+  margin-bottom: 25px;
+}
+
+.form--button{
+  margin-bottom:25px;
+  background: linear-gradient(#e66465, #9198e5);
+  color: white;
+}
+
+.jokesClass{
+  margin-bottom: 500px
+}
