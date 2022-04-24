@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MarkMerante/static/css/main.d1f8dc30.css",
+    "main.js": "/MarkMerante/static/js/main.58bd6e5a.js",
+    "index.html": "/MarkMerante/index.html",
+    "main.d1f8dc30.css.map": "/MarkMerante/static/css/main.d1f8dc30.css.map",
+    "main.58bd6e5a.js.map": "/MarkMerante/static/js/main.58bd6e5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1f8dc30.css",
+    "static/js/main.58bd6e5a.js"
+  ]
+}
